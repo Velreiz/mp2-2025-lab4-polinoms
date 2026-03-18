@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\lab4"
+    "\\lab4",
+    "\\test"
   ],
-  "SelectedNode": "\\lab4\\Polynomial.h",
+  "SelectedNode": "\\test\\test.cpp",
   "PreviewInSolutionExplorer": false
 }

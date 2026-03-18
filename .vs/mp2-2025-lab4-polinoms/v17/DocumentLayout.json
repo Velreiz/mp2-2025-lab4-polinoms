@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\German\\Desktop\\lab4\\mp2-2025-lab4-polinoms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\German\\Desktop\\lab4\\mp2-2025-lab4-polinoms\\lab4\\Polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab4\\Polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\German\\Desktop\\lab4\\mp2-2025-lab4-polinoms\\test\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\German\\Desktop\\lab4\\mp2-2025-lab4-polinoms\\lab4\\Polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab4\\Polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\German\\Desktop\\lab4\\mp2-2025-lab4-polinoms\\lab4\\Polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab4\\Polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\German\\Desktop\\lab4\\mp2-2025-lab4-polinoms\\lab4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Polynomial.h",
               "DocumentMoniker": "C:\\Users\\German\\Desktop\\lab4\\mp2-2025-lab4-polinoms\\lab4\\Polynomial.h",
               "RelativeDocumentMoniker": "lab4\\Polynomial.h",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "test.cpp",
               "DocumentMoniker": "C:\\Users\\German\\Desktop\\lab4\\mp2-2025-lab4-polinoms\\test\\test.cpp",
               "RelativeDocumentMoniker": "test\\test.cpp",
@@ -56,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Polynomial.cpp",
               "DocumentMoniker": "C:\\Users\\German\\Desktop\\lab4\\mp2-2025-lab4-polinoms\\lab4\\Polynomial.cpp",
               "RelativeDocumentMoniker": "lab4\\Polynomial.cpp",
               "ToolTip": "C:\\Users\\German\\Desktop\\lab4\\mp2-2025-lab4-polinoms\\lab4\\Polynomial.cpp",
               "RelativeToolTip": "lab4\\Polynomial.cpp",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-18T18:56:35.694Z",
               "EditorCaption": ""
@@ -77,8 +77,7 @@
               "RelativeToolTip": "lab4\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-18T18:56:31.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T18:56:31.739Z"
             }
           ]
         }
