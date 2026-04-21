@@ -1,11 +1,9 @@
 .vs/
 [Xx]64/
 [Dd]ebug/
-[Rr]elease/
-*.vcxproj.user
+packages/
+*.user
+*.tlog/
+*.log
 *.obj
 *.pdb
-*.ilk
-*.log
-*.tlog/
-*.recipe
